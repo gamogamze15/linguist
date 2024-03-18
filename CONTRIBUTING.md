@@ -4,7 +4,7 @@ Hi there!
 We're thrilled that you'd like to contribute to this project.
 Your help is essential for keeping it great.
 
-Contributions to this project are [released](https://docs.github.com/github/site-policy/github-terms-of-service#6-contributions-under-repository-license) to the public under the [project's open source license](LICENSE).
+Contributions to this project are [released](https://docs.github.com/github/site-policy/github-terms-of-service#6-contributions-under-repository-license) to the public under the [project's open source license](L ICENSE).
 
 This project adheres to the [Contributor Covenant Code of Conduct](http://contributor-covenant.org/).
 By participating, you are expected to uphold this code.
